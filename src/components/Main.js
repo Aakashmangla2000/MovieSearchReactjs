@@ -6,7 +6,7 @@ class Main extends Component {
     render() {
         return (
             <div className="container">
-               <h1>React Movie Search</h1> 
+               <h1>React.js <i className="material-icons">event_seat</i> Movie Search</h1> 
                <MovieSearch/>
             </div>
         )
